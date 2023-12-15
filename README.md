@@ -91,12 +91,3 @@ https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 Github repo:
 
 https://github.com/matheusfacure/python-causality-handbook
-
-### 6 free machine learning books
-
-- Deep Learning - https://www.deeplearningbook.org/
-- Dive into Deep Learning - d2l.ai
-- Machine Learning Engineering - http://www.mlebook.com/wiki/doku.php
-- Python Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
-- Probabilistic Machine Learning - https://probml.github.io/pml-book/book1.html
-- Machine Learning Yearning - https://www.deeplearning.ai/resources/#ebooks
